@@ -14,17 +14,23 @@ COST-IT is a digital-first construction commerce platform built in **Flutter** t
 
 ## 📱 App Screenshots
 
-### Marketplace Discovery & Product Details
-| Explore & Special Offers | Trending Construction Feed | Product Detail & Vendor Inquiry |
-| :---: | :---: | :---: |
-| <img src="screenshots/01_explore_offers.jpg" width="250" alt="Explore & Special Offers"/> | <img src="screenshots/02_marketplace_trending.jpg" width="250" alt="Trending Marketplace Feed"/> | <img src="screenshots/03_product_detail.jpg" width="250" alt="Product Detail Page"/> |
-| *Location-aware home feed, promotional deals & category navigation* | *Staggered grid feed for materials, timber & heavy equipment* | *Multi-photo gallery, instant WhatsApp/call actions & quick-inquiry chips* |
-
-### Vendor Listing, Messaging & User Profile
-| List an Item & Location Sheet | Chat Permission Onboarding | In-App Messaging | User Profile & Verification |
+### 1. Onboarding, Authentication & Account Management
+| Onboarding & Guest Entry | Multi-Step Sign Up | OAuth & Email Login | User Profile & Verification |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/04_vendor_list_item.jpg" width="200" alt="Vendor Listing & Location Selection"/> | <img src="screenshots/05_chat_permissions.jpg" width="200" alt="Chat Permission Gate"/> | <img src="screenshots/06_messages_view.jpg" width="200" alt="Messages View"/> | <img src="screenshots/07_user_profile.jpg" width="200" alt="User Profile"/> |
-| *Vendor listing workflow with saved address & custom location selector* | *Contextual permission gate for camera, voice notes & contacts* | *Real-time buyer-vendor negotiation & contact invitations* | *Account management with email & phone verification status* |
+| <img src="screenshots/00_onboarding_welcome.jpg" width="200" alt="Onboarding Welcome"/> | <img src="screenshots/00c_signup_screen.jpg" width="200" alt="Create Account Screen"/> | <img src="screenshots/00b_login_screen.jpg" width="200" alt="Welcome Back Login"/> | <img src="screenshots/07_user_profile.jpg" width="200" alt="User Profile"/> |
+| *Animated hero onboarding with frosted glass CTA & guest mode* | *Step-by-step registration with Apple & Google OAuth* | *Credential login with persistent session & password recovery* | *Profile management with email & phone verification badges* |
+
+### 2. Marketplace Discovery, Search & Verified Listings
+| Explore & Special Offers | Search & Trending Tags | Trending Construction Feed | Verified Vendor Listings |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/01_explore_offers.jpg" width="200" alt="Explore & Special Offers"/> | <img src="screenshots/02b_search_and_trending.jpg" width="200" alt="Search & Trending on Cost-It"/> | <img src="screenshots/02_marketplace_trending.jpg" width="200" alt="Trending Marketplace Feed"/> | <img src="screenshots/02c_verified_vendor_grid.jpg" width="200" alt="Verified Vendor Grid"/> |
+| *Location-aware home feed, promotional deals & category navigation* | *Recent search history, trending construction tags & category counts* | *Staggered grid feed for materials, timber & heavy equipment* | *Category-tagged product cards with verified vendor badges* |
+
+### 3. Product Details, Vendor Listing & Real-Time Messaging
+| Product Detail & Vendor Inquiry | List an Item & Location Sheet | Chat Permission Gate | In-App Vendor Messaging |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/03_product_detail.jpg" width="200" alt="Product Detail Page"/> | <img src="screenshots/04_vendor_list_item.jpg" width="200" alt="Vendor Listing & Location Selection"/> | <img src="screenshots/05_chat_permissions.jpg" width="200" alt="Chat Permission Gate"/> | <img src="screenshots/06_messages_view.jpg" width="200" alt="Messages View"/> |
+| *Multi-photo gallery, instant WhatsApp/call actions & quick-inquiry chips* | *Vendor listing workflow with saved address & custom location selector* | *Contextual permission onboarding for camera, voice notes & contacts* | *Real-time buyer-vendor price negotiation & contact invitations* |
 
 ---
 
